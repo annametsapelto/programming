@@ -30,7 +30,11 @@ li {
 .kuva {
     margin-left: 10%;
     margin-top: 50px;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
+    
+}
+.kuva img {
+    max-width: 600px;
 }
 .navigaatiopalkki ul {
     position: fixed;
